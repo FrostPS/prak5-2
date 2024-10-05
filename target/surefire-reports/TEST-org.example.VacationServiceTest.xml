@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Users\MrNik\.jdks\corretto-22.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\MrNik\AppData\Local\Temp\surefire8742498071896770083\surefirebooter4313144718645850683.jar C:\Users\MrNik\AppData\Local\Temp\surefire8742498071896770083 2024-10-05T07-23-31_982-jvmRun1 surefire7830626818986955814tmp surefire_010886656552771969364tmp"/>
+    <property name="sun.java.command" value="C:\Users\MrNik\AppData\Local\Temp\surefire284480071167854840\surefirebooter14727605535019515701.jar C:\Users\MrNik\AppData\Local\Temp\surefire284480071167854840 2024-10-05T07-45-59_848-jvmRun1 surefire11084123166600142913tmp surefire_01250780927761327664tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\MrNik\IdeaProjects\prak5-2\target\test-classes;C:\Users\MrNik\IdeaProjects\prak5-2\target\classes;C:\Users\MrNik\.m2\repository\org\junit\jupiter\junit-jupiter\5.7.0\junit-jupiter-5.7.0.jar;C:\Users\MrNik\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.7.0\junit-jupiter-params-5.7.0.jar;C:\Users\MrNik\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.7.0\junit-jupiter-engine-5.7.0.jar;C:\Users\MrNik\.m2\repository\org\junit\platform\junit-platform-engine\1.7.0\junit-platform-engine-1.7.0.jar;C:\Users\MrNik\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.7.0\junit-jupiter-api-5.7.0.jar;C:\Users\MrNik\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\MrNik\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\MrNik\.m2\repository\org\junit\platform\junit-platform-commons\1.7.0\junit-platform-commons-1.7.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\MrNik\AppData\Local\Temp\surefire8742498071896770083\surefirebooter4313144718645850683.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\MrNik\AppData\Local\Temp\surefire284480071167854840\surefirebooter14727605535019515701.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="22.0.2+9-FR"/>
